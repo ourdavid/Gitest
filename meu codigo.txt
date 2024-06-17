@@ -1,2 +1,3 @@
 ola meu nome david
 ola eu sou uma nova linha
+to usando o git pelo terminal e nao pelo git desktop
